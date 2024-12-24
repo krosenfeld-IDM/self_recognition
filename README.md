@@ -7,7 +7,7 @@ Read the paper here: http://tiny.cc/llm_self_recognition
 ```
 python -m venv venv
 source venv/bin/activate
-pip install -r requirements.txt
+pip install .
 ```
 
 Then create a `.env` file with the relevant variables as needed: OPENAI_API_KEY, ANTHROPIC_API_KEY, HF_TOKEN.
