@@ -1,0 +1,20 @@
+[project]
+name = "self-recognition"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "altair>=5.5.0",
+    "bitsandbytes>=0.45.0",
+    "datasets>=3.2.0",
+    "huggingface-hub>=0.27.0",
+    "notebook>=7.3.2",
+    "plotly>=5.24.1",
+    "python-dotenv>=1.0.1",
+    "scipy>=1.14.1",
+    "seaborn>=0.13.2",
+    "tabulate>=0.9.0",
+    "torch>=2.5.1",
+    "transformers>=4.47.1",
+]
